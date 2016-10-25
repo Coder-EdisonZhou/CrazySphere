@@ -1,0 +1,11 @@
+E:\u3dprojects\CrazySphere\Temp\bin\Debug\Assembly-CSharp.dll
+E:\u3dprojects\CrazySphere\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\u3dprojects\CrazySphere\Temp\bin\Debug\UnityEditor.dll
+E:\u3dprojects\CrazySphere\Temp\bin\Debug\UnityEngine.dll
+E:\u3dprojects\CrazySphere\Temp\bin\Debug\Mono.Cecil.dll
+E:\u3dprojects\CrazySphere\Temp\bin\Debug\nunit.framework.dll
+E:\u3dprojects\CrazySphere\Temp\bin\Debug\Unity.DataContract.dll
+E:\u3dprojects\CrazySphere\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\u3dprojects\CrazySphere\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+E:\u3dprojects\CrazySphere\obj\Debug\Assembly-CSharp.dll
+E:\u3dprojects\CrazySphere\obj\Debug\Assembly-CSharp.pdb
